@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nzkks
 - 👀 I’m interested in anything related to JavaScript and Front End development
-- 🌱 I’m currently learning "How to create a Blog with Next.js and and Strapi CMS"
+- 🌱 I’m currently cloning popular web applications with Next.js and related technologies.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
