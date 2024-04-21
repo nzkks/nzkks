@@ -26,10 +26,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="Typescript" />
+<img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="40" height="40" alt="TanSack React Query" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="40" height="40" alt="React Router" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="40" height="40" alt="Astro.js" />
+<img src="https://testing-library.com/img/octopus-64x64.png" width="40" height="40" alt="React Testing Library" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="40" height="40" alt="Vitest.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest.js" />
+<img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only-grey.svg" width="40" height="40" alt="React Hook Form" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material-UI" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
