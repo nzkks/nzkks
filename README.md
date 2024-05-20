@@ -7,6 +7,8 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 - I excel in building responsive websites/web applications, ensuring design principles, user experience, and cross-browser compatibility.
 - Collaborative and skilled in Agile Scrum methodologies, I effectively gather requirements, design interfaces, and implement solutions that meet client and internal stakeholder needs.
 
+<br>
+
 - 🎯 Goal : To be a better (Full Stack) Developer
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/shanthoshk/) / [kkshanthosh@gmail.com](mailto:kkshanthosh@gmail.com)
 
@@ -60,8 +62,3 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 
 ## Github Status 🏆
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzkks&theme=react" width="48%" >
-
-<p align="center">Wanna Know me More?</p>
-<p align="center"><a href="https://www.linkedin.com/in/shanthoshk/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a></p>
-
