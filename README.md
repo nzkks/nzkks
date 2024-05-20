@@ -7,11 +7,8 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 - I excel in building responsive websites/web applications, ensuring design principles, user experience, and cross-browser compatibility.
 - Collaborative and skilled in Agile Scrum methodologies, I effectively gather requirements, design interfaces, and implement solutions that meet client and internal stakeholder needs.
 
-- 🤓 Self taught Developer 
-- 👩‍💻 Working on Web & App Development 
 - 🎯 Goal : To be a better (Full Stack) Developer
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/shanthoshk/) / [kkshanthosh@gmail.com](mailto:kkshanthosh@gmail.com)
-- 👀 I’m interested in anything related to JavaScript and Front End development
 
 <br>
 
