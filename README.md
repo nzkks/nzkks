@@ -1,23 +1,29 @@
-👋 Nice to meet you, I'm Shanthosh Krishnakumar aka nzkks
+Hi there 👋, Nice to meet you, I'm Shanthosh
 
-
-## Who Am I? 🤠
+## About me: 🤠
+- Dedicated, experienced and adaptable Frontend Developer with a strong foundation in problem-solving, critical thinking, and understanding the ever-evolving landscape of frontend development.
+- Equipped with the resilience to tackle any new challenge, I thrive in dynamic environments and embrace the constant learning inherent in this field.
+- My ability to learn and adapt ensures that I stay ahead of industry trends and deliver innovative solutions that meet the needs of today's digital landscape.
+- I excel in building responsive websites/web applications, ensuring design principles, user experience, and cross-browser compatibility.
+- Collaborative and skilled in Agile Scrum methodologies, I effectively gather requirements, design interfaces, and implement solutions that meet client and internal stakeholder needs.
 
 - 🤓 Self taught Developer 
-- 👩‍💻 Working on Web & App Development
-- 🎯 Goal : To be a better Developer 
-- 📫 How to reach me : [kkshanthosh@gmail.com](mailto:kkshanthosh@gmail.com)
+- 👩‍💻 Working on Web & App Development 
+- 🎯 Goal : To be a better (Full Stack) Developer
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/shanthoshk/) / [kkshanthosh@gmail.com](mailto:kkshanthosh@gmail.com)
 - 👀 I’m interested in anything related to JavaScript and Front End development
 
 <br>
+## Skills Summary 🛡
 
-## My Weapons 🌟
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzkks&theme=react)](https://github.com/nzkks/github-readme-stats)
+- React.js, Next.js, Vite.js, Typescript, HTML5, CSS3, JavaScript, Styled Components, Emotion/css
+- React Storybook, Chromatic, Redux Toolkit, Redux Thunk, TanStack React Query, React Hook Form
+- React Testing Library, Vitest, Jest, Material-UI, Astro.js, Bootstrap, REST API, GraphQL, CLI, Git
+- Building CI/CD pipelines and releases/deployment using Azure DevOps, GitHub Actions
+- Converting Figma/mock designs into responsive websites/web applications
+- Experience in Express.js/Node.js backend, WordPress CMS
 
 <br>
-
-## Other Shields 🛡
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React.js" />
@@ -50,7 +56,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original-wordmark.svg" width="40" height="40" alt="Grunt" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" width="40" height="40" alt="Gulp" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" alt="JQuery" />
-    
 </p>
 
 <br>
