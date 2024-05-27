@@ -21,7 +21,7 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 - React Testing Library, Vitest, Jest, Material-UI, Astro.js, Bootstrap, REST API, GraphQL, CLI, Git
 - Building CI/CD pipelines and releases/deployment using Azure DevOps, GitHub Actions
 - Converting Figma/mock designs into responsive websites/web applications
-- Experience in Express.js/Node.js backend, WordPress CMS
+- Experience in Express.js/Node.js backend, Sanity headless CMS, Stripe integration, WordPress CMS
 
 <br>
 
@@ -49,6 +49,7 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="40" height="40" alt="Azure DevOps" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sanity/sanity-original.svg" width="40" height="40" alt="Sanity headless CMS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" alt="Microsoft SQL Server" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" />
