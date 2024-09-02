@@ -16,7 +16,7 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 
 ## Skills Summary 🛡
 
-- React.js, Next.js, Vite.js, Typescript, HTML5, CSS3, JavaScript, Styled Components, Emotion/css
+- React.js, Next.js, Vite.js, Typescript, HTML5, CSS3, JavaScript, Tailwind CSS, Emotion/css
 - React Storybook, Chromatic, Redux Toolkit, Redux Thunk, TanStack React Query, React Hook Form
 - React Testing Library, Vitest, Jest, Material-UI, Astro.js, Bootstrap, REST API, GraphQL, CLI, Git
 - Building CI/CD pipelines and releases/deployment using Azure DevOps, GitHub Actions
