@@ -14,12 +14,42 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 
 ## Skills Summary 🛡
 
-- React.js, Next.js, Vite.js, Typescript, HTML5, CSS3, JavaScript, Tailwind CSS, Emotion/css
-- React Storybook, Chromatic, Redux Toolkit, Redux Thunk, TanStack React Query, React Hook Form
-- React Testing Library, Vitest, Jest, Material-UI, Astro.js, Bootstrap, REST API, GraphQL, CLI, Git
-- Building CI/CD pipelines and releases/deployment using Azure DevOps, GitHub Actions
+
+| Frameworks and Libraries | Core Technologies | Styling and Design |
+| --- | --- | --- |
+| React.js | Typescript | Tailwind Css |
+| Next.js | HTML5 | Styled Components |
+| Vite.js | CSS3 | Emotion/css |
+| Astro.js | JavaScript | GSAP |
+|  |  | Framer Motion |
+|  |  | Material-UI |
+|  |  | Bootstrap |
+
+| State Management | Forms | Animation and Interaction |
+| --- | --- | --- |
+| Redux Toolkit | React Hook Form | GSAP |
+| Redux Thunk | Formik | Framer Motion |
+| TanStack React Query |  | Three.js |
+| React Hook Form |  |  |
+| Formik |  |  |
+
+| Testing | APIs and Data Handling | Build Tools and Workflow |
+| --- | --- | --- |
+| React Testing Library | REST API | CLI |
+| Vitest | GraphQL | Git |
+| Jest | Sanity headless CMS | Azure DevOps |
+| Playwright | Stripe integration | GitHub Actions |
+
+| Version Control and Collaboration | CMSs | Miscellaneous |
+| --- | --- | --- |
+| Git | Sanity headless CMS | Frontend Development |
+| Azure DevOps | WordPress CMS | React Storybook |
+|  |  | Chromatic |
+|  |  | WordPress CMS |
+
+- Building CI/CD pipelines and releases/deployment
 - Converting Figma/mock designs into responsive websites/web applications
-- Experience in Express.js/Node.js backend, Sanity headless CMS, Stripe integration, WordPress CMS
+- Experience in Express.js/Node.js backend
 
 <br>
 
