@@ -1,11 +1,9 @@
 Hi there 👋, Nice to meet you, I'm Shanthosh
 
 ## About me 🤠
-- Dedicated, experienced and adaptable Frontend Developer with a strong foundation in problem-solving, critical thinking, and understanding the ever-evolving landscape of frontend development.
-- Equipped with the resilience to tackle any new challenge, I thrive in dynamic environments and embrace the constant learning inherent in this field.
-- My ability to learn and adapt ensures that I stay ahead of industry trends and deliver innovative solutions that meet the needs of today's digital landscape.
-- I excel in building responsive websites/web applications, ensuring design principles, user experience, and cross-browser compatibility.
-- Collaborative and skilled in Agile Scrum methodologies, I effectively gather requirements, design interfaces, and implement solutions that meet client and internal stakeholder needs.
+- Experienced and adaptable Frontend Developer with over seven years of expertise in building scalable, responsive web applications using React.js, Next.js, and modern JavaScript frameworks. 
+- Proven track record of transforming complex, legacy systems into cutting-edge solutions, improving performance and user experience. 
+- Passionate about continuous learning, collaboration, and delivering high-quality, innovative products in fast-paced environments.
 
 <br>
 
