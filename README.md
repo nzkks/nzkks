@@ -90,4 +90,4 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 <br>
 
 ## Github Status 🏆
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nzkks&theme=react" width="48%" >
+<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=nzkks&theme=transparent&hide_border=true" alt="GitHub Streak" />
