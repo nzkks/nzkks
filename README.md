@@ -19,9 +19,9 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 | --- | --- | --- |
 | React.js | Typescript | Tailwind Css |
 | Next.js | HTML5 | Styled Components |
-| Vite.js | CSS3 | Emotion/css |
-| Astro.js | JavaScript | GSAP |
-|  |  | Framer Motion |
+| Vue.js | CSS3 | Emotion/css |
+| Vite.js | JavaScript | GSAP |
+| Astro.js |  | Framer Motion |
 |  |  | Material-UI |
 |  |  | Bootstrap |
 
@@ -29,7 +29,8 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 | --- | --- | --- |
 | Redux Toolkit | React Hook Form | GSAP |
 | Redux Thunk | Formik | Framer Motion |
-| TanStack React Query |  | Three.js |
+| TanStack React Query | | Three.js |
+| VueX |  |  |
 | React Hook Form |  |  |
 | Formik |  |  |
 
@@ -56,6 +57,7 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
