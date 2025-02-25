@@ -30,6 +30,7 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 | Redux Toolkit | React Hook Form | GSAP |
 | Redux Thunk | Formik | Framer Motion |
 | TanStack React Query | | Three.js |
+| Pinia |  |  |
 | VueX |  |  |
 | React Hook Form |  |  |
 | Formik |  |  |
@@ -44,7 +45,7 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 | Version Control and Collaboration | CMSs | Miscellaneous |
 | --- | --- | --- |
 | Git | Sanity headless CMS | Frontend Development |
-| Azure DevOps | WordPress CMS | React Storybook |
+| Azure DevOps | WordPress CMS | Storybook (with React.js/Vue.js) |
 |  |  | Chromatic |
 |  |  | WordPress CMS |
 
@@ -65,6 +66,7 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="40" height="40" alt="TanSack React Query" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="40" height="40" alt="React Router" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" width="40" height="40" alt="Pinia" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="40" height="40" alt="Astro.js" />
 <img src="https://testing-library.com/img/octopus-64x64.png" width="40" height="40" alt="React Testing Library" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite.js" />
