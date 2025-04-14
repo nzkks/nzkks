@@ -9,7 +9,7 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 
 - 🎯 Goal : To be a better (Full Stack) Developer
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/shanthoshk/) / [kkshanthosh@gmail.com](mailto:kkshanthosh@gmail.com)
-- My CV files : [CV (PDF, 120KB)](https://drmsweb.com/files/ShanthoshK_Frontend_Dev_cv.pdf) / [CV (DOCX, 31KB)](https://drmsweb.com/files/ShanthoshK_Frontend_Dev_cv.docx)
+- My CV files : [CV (PDF, 120KB)](https://drmsweb.com/files/ShanthoshK_WebEngineer_cv.pdf) / [CV (DOCX, 31KB)](https://drmsweb.com/files/ShanthoshK_WebEngineer_cv.docx)
 
 <br>
 
