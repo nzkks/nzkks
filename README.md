@@ -95,4 +95,4 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 <br>
 
 ## Github Status 🏆
-<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=nzkks&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=nzkks&theme=transparent&hide_border=true" alt="Github streak status" />
