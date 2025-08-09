@@ -92,7 +92,3 @@ Hi there 👋, Nice to meet you, I'm Shanthosh
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" alt="JQuery" />
 </p>
 
-<br>
-
-## Github Status 🏆
-<img src="https://streak-stats.demolab.com?user=nzkks&theme=transparent&hide_border=true" alt="Github streak status" />
