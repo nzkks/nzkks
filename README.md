@@ -1,58 +1,115 @@
-Hi there 👋, Nice to meet you, I'm Shanthosh
+# Hi, I'm Shanthosh Krishnakumar 👋
 
-## About me 🤠
-- Experienced and adaptable Frontend Developer with over seven years of expertise in building scalable, responsive web applications using React.js, Next.js, and modern JavaScript frameworks. 
-- Proven track record of transforming complex, legacy systems into cutting-edge solutions, improving performance and user experience. 
-- Passionate about continuous learning, collaboration, and delivering high-quality, innovative products in fast-paced environments.
+## Frontend Engineer | React.js | Next.js | TypeScript | Digital Product Delivery
 
-<br>
+I’m a frontend-focused software developer based in Auckland, New Zealand, currently working with Tata Consultancy Services. I specialise in building modern, responsive, accessible, and maintainable web applications using React.js, Next.js, TypeScript, and modern frontend tooling.
 
-- 🎯 Goal : To be a better (Full Stack) Developer
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/shanthoshk/) / [kkshanthosh@gmail.com](mailto:kkshanthosh@gmail.com)
-- My CV files : [CV (PDF, 120KB)](https://drmsweb.com/files/ShanthoshK_WebEngineer_cv.pdf) / [CV (DOCX, 33KB)](https://drmsweb.com/files/ShanthoshK_WebEngineer_cv.docx)
+My recent work has been in the airline digital experience space, contributing to customer-facing booking, manage booking, check-in, loyalty, digital identity, consent, and credential-based flows. I enjoy working on products where frontend engineering directly improves real customer journeys.
 
-<br>
+---
 
-## Skills Summary 🛡
+## What I bring
 
+* Strong frontend engineering experience across React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, and modern component-based architecture
+* Experience building customer-facing web applications with performance, usability, accessibility, and maintainability in mind
+* Hands-on work with booking and manage booking flows, check-in experiences, digital identity, consent flows, and loyalty-related features
+* Ability to convert Figma designs and business requirements into polished, responsive web interfaces
+* Practical experience with testing, reusable components, API integration, state management, CI/CD, and production delivery
+* A continuous-learning mindset, with interest in cloud, AI-enabled applications, and full-stack product engineering
 
-| Frameworks and Libraries | Core Technologies | Styling and Design |
-| --- | --- | --- |
-| React.js | Typescript | Tailwind Css |
-| Next.js | HTML5 | Styled Components |
-| Vue.js | CSS3 | Emotion/css |
-| Vite.js | JavaScript | GSAP |
-| Astro.js |  | Framer Motion |
-|  |  | Material-UI |
-|  |  | Bootstrap |
+---
 
-| State Management | Forms | Animation and Interaction |
-| --- | --- | --- |
-| Redux Toolkit | React Hook Form | GSAP |
-| Redux Thunk | Formik | Framer Motion |
-| TanStack React Query | | Three.js |
-| Pinia |  |  |
-| VueX |  |  |
-| React Hook Form |  |  |
-| Formik |  |  |
+## Current focus
 
-| Testing | APIs and Data Handling | Build Tools and Workflow |
-| --- | --- | --- |
-| React Testing Library | REST API | CLI |
-| Vitest | GraphQL | Git |
-| Jest | Sanity headless CMS | Azure DevOps |
-| Playwright | Stripe integration | GitHub Actions |
+I’m currently strengthening my profile around:
 
-| Version Control and Collaboration | CMSs | Miscellaneous |
-| --- | --- | --- |
-| Git | Sanity headless CMS | Frontend Development |
-| Azure DevOps | WordPress CMS | Storybook (with React.js/Vue.js) |
-|  |  | Chromatic |
-|  |  | WordPress CMS |
+* Advanced React.js and Next.js application architecture
+* TypeScript-first frontend development
+* Testing with Vitest, Jest, React Testing Library, and Playwright
+* Cloud fundamentals and solution architecture
+* AI-assisted development workflows
+* Full-stack application development using Node.js and modern APIs
 
-- Building CI/CD pipelines and releases/deployment
-- Converting Figma/mock designs into responsive websites/web applications
-- Experience in Express.js/Node.js backend
+---
+
+## Technical skills
+
+**Frontend:**
+React.js, Next.js, Vue.js, TypeScript, JavaScript, HTML5, CSS3
+
+**UI and styling:**
+Tailwind CSS, Material UI, Bootstrap, Styled Components, Emotion, responsive design
+
+**State and data:**
+Redux Toolkit, TanStack React Query, Pinia, Vuex, REST APIs, GraphQL
+
+**Forms and validation:**
+React Hook Form, Formik
+
+**Testing:**
+Vitest, Jest, React Testing Library, Playwright
+
+**Build and workflow:**
+Vite, Git, GitHub, GitHub Actions, Azure DevOps, CI/CD
+
+**CMS and tools:**
+Sanity CMS, WordPress, Storybook, Chromatic
+
+**Backend exposure:**
+Node.js, Express.js, SQL Server
+
+---
+
+## Featured projects
+
+### Weather Dashboard App
+
+A React + TypeScript weather application using TanStack Query, Recharts, shadcn/ui, Tailwind CSS, OpenWeather API integration, custom hooks, loading skeletons, localStorage-based history/favourites, and light/dark theme support.
+
+### Habit App
+
+A React + TypeScript application using Redux Toolkit and Material UI, focused on practical state management and reusable UI patterns.
+
+### Micro Frontend Demo
+
+A Vite + React module federation project exploring micro-frontend architecture and independent frontend application composition.
+
+### Testing Practice
+
+A practical React testing project using Vitest, Jest, React Testing Library, and modern frontend testing approaches.
+
+### Storybook Design System
+
+A component-driven UI project using Storybook to document, test, and present reusable frontend components.
+
+### Next.js Starter
+
+A modern Next.js + TypeScript + Tailwind CSS starter project for scalable frontend application development.
+
+---
+
+## Professional direction
+
+I’m working toward becoming a stronger frontend engineer with broader solution architecture capability — someone who understands frontend systems, cloud fundamentals, APIs, AI-enabled development, and real-world customer journeys.
+
+I’m especially interested in roles and projects involving:
+
+* Modern frontend engineering
+* React.js / Next.js product development
+* Airline, travel, booking, identity, and customer experience platforms
+* Design-system and component-library development
+* Cloud-ready and AI-assisted web applications
+
+---
+
+## Connect with me
+
+* Portfolio: https://drmsweb.com
+* LinkedIn: https://www.linkedin.com/in/shanthoshk
+* GitHub: https://github.com/nzkks
+
+Thanks for visiting my profile.
+
 
 <br>
 
