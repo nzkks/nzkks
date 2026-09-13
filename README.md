@@ -106,7 +106,6 @@ I’m especially interested in roles and projects involving:
 
 * Portfolio: https://drmsweb.com
 * LinkedIn: https://www.linkedin.com/in/shanthoshk
-* GitHub: https://github.com/nzkks
 
 Thanks for visiting my profile.
 
